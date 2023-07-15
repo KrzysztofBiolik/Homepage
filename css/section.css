@@ -1,0 +1,7 @@
+.section {
+    padding: 5px 0;
+}
+
+.section__paragraph {
+    line-height: 2;
+}
