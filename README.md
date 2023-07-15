@@ -6,11 +6,11 @@ Welcome to my first website, which I created as homework in the YOUCODE course.
 
 ## Demo
 
-You can see how the currency converter works in the gif below.
+You can see how the Homepage website looks in the gif below.
 
 ![Gif](https://github.com/KrzysztofBiolik/Homepage/blob/main/images/gif_Homepage.gif?raw=true)
 
-You can try for yourself how the currency exchange works at this link.
+You can see for yourself what this website looks like at this link.
 
 [Homepage link](https://krzysztofbiolik.github.io/Homepage/)
 
