@@ -11,10 +11,6 @@
     padding: 15px;
 }
 
-.header__button--changeTextColor{
-    color:white
-} 
-
 .button:hover {
     background-color: white;
 }
